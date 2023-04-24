@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 align="center">QR CODE GENERATOR</h1>
+<h1 align="left">QR CODE GENERATOR</h1>
 
 ![pic1](https://user-images.githubusercontent.com/78317220/233969402-aae78cb5-7e7d-4362-a095-d0dbf1e63253.png)
 
