@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <h1 align="center">CHARACTER COUNT WEB APP</h1>
 
-![image1](https://user-images.githubusercontent.com/78317220/189998321-9c1fc1c4-b4d9-4ca8-85f7-f526d7673445.png)
+![pic1](https://user-images.githubusercontent.com/78317220/233969402-aae78cb5-7e7d-4362-a095-d0dbf1e63253.png)
+
+
 
 <h3 aligh="center">Wecome to this Repository.</h3></br>
 <ul>
@@ -11,7 +13,9 @@
 <li>For any suggestion/improvement or to talk on any tech topic connect with me   :  https://linktr.ee/sudoshivesh </li></br>
 </ul>
 
-![image2](https://user-images.githubusercontent.com/78317220/189999188-ddd4d55c-9c43-477f-b6a4-7652b2342f6c.png)
+
+![pic2](https://user-images.githubusercontent.com/78317220/233969412-686b3e82-9b16-49f2-899c-975842127ed2.png)
+
 
 
 <h3 align="left">In this charcount repository you can.</h3><br>
