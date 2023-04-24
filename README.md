@@ -7,25 +7,12 @@
 <ul>
   <li><b>Try it by clicking : https://sudoshivesh.github.io/qr-code-generator/ <b/></li></br>
   <li>QR-Code-Generator help you to generate qr code for any text or URL. </li></br>
-<li>You can write any text or URL or you may paste in the box to generate the QR.</li></br>
-<li>For any suggestion/improvement or to talk on any tech topic connect with me   :   </li></br>
+  <li>You can write any text or URL or you may paste in the box to generate the QR.</li></br>
+  <li>Connect with me : <a href="https://www.linkedin.com/in/sudoshivesh">Shivesh</a></li>
 </ul>
-
 
 ![pic2](https://user-images.githubusercontent.com/78317220/233969412-686b3e82-9b16-49f2-899c-975842127ed2.png)
 
-
-
-<h3 align="left">In this charcount repository you can.</h3><br>
-<ol>
-<li>Count the number of words</li>
-<li>Total number of character</li>
-<li>Total number of spaces</li>
-<li>Total number of character without spaces</li>
-<li>More is coming..........Follow Me!</li>
-<li>https://github.com/sudoshivesh/</li>
-<li>https://linkedin.com/in/sudoshivesh</li> 
-</ol>
 </html>
 
 
